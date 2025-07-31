@@ -1,4 +1,4 @@
-# API Rate Limiter Backend
+w# ThrottleX 
 
 This repository contains an Express.js-based backend service that implements user-specific API rate limiting using Redis and Prisma (with PostgreSQL).
 
